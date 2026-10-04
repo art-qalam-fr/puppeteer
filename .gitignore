@@ -1,0 +1,8 @@
+node_modules/
+.llm-context/
+.trae/
+.vscode/
+.windsurf/
+logs/
+*.log
+.env
